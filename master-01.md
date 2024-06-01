@@ -1,3 +1,3 @@
 This file is on the master branch.
 я добавил новую строку
-еще одну добавил
+еще одну добавил, и сделел PUSH
